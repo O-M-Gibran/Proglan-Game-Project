@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1679223904 source:e:\downloads\documents\all programming projects\cprog\proglanproject\main.cpp
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<winuser.h>
+	<cstdlib>
+
+1680490944 source:m:\files\downloads\proglanprojectyow-20230319t233338z-001\proglanprojectyow\main.cpp
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<winuser.h>
+	<cstdlib>
+
+1683822159 source:m:\files\onedrive\dokumen\programming projects\proglanprojectyow\main.cpp
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<winuser.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+
+1684014324 source:m:\files\downloads\proglanprojectyow-20230521t130336z-001\proglanprojectyow\main.cpp
+	<graphics.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<winuser.h>
+	<cstdlib>
+	<math.h>
+	<iostream>
+
+1687136317 source:m:\files\onedrive\dokumen\programming projects\proglanprojectmain\main.cpp
+	<graphics.h>
+	<windows.h>
+	<unistd.h>
+	<winuser.h>
+	<math.h>
+	<iostream>
+	<time.h>
+
